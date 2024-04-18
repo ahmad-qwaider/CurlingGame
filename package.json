@@ -1,0 +1,16 @@
+{
+  "name": "03-curling-demo-oo-code",
+  "version": "1.0.0",
+  "description": "2406 Collision Math Demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.7.2"
+  }
+}
